@@ -10,7 +10,7 @@ This is a **lightweight Tkinter GUI app using locally-saved CRUD profiles** of a
 ![appDemo (2)](https://user-images.githubusercontent.com/73561858/124816282-514a8b80-df36-11eb-905d-b86a4c29e0f8.PNG)
 
 Now, after hours of reading documentation and coding, I can save a few seconds every day... maybe that'll pay off within a few hundred years?
-No regrets though, I learned a lot and other people can use this too :)
+No regrets though, I learned a lot and other people can use this too.  
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 #### How to run this app on startup for your computer:
@@ -20,5 +20,6 @@ No regrets though, I learned a lot and other people can use this too :)
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   *Built with Python, Tkinter, and PathLib.  
+  [View information about this project's development](https://github.com/Henry-Graves/App-Opener/projects/1)
   Inspired by [Dev Ed](https://www.youtube.com/watch?v=jE-SpRI3K5g).  
   Design and functionality improved by Henry Graves.*  
