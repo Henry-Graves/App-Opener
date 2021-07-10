@@ -20,6 +20,6 @@ No regrets though, I learned a lot and other people can use this too.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   *Built with Python, Tkinter, and PathLib.  
-  [View information about this project's development](https://github.com/Henry-Graves/App-Opener/projects/1)  
+  View information about this project's development in [GitHub Projects].(https://github.com/Henry-Graves/App-Opener/projects/1)  
   Inspired by [Dev Ed](https://www.youtube.com/watch?v=jE-SpRI3K5g).  
   Design and functionality improved by Henry Graves.*  
