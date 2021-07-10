@@ -1,1 +1,1 @@
-C:/Program Files (x86)/Photoshop CS6/x64/Photoshop.exe,C:/ModAssistant.exe,E:/Riot Games/League of Legends/LeagueClient.exe,E:/League of Legends/LeagueClient.exe,
+C:/Program Files (x86)/Photoshop CS6/x64/Photoshop.exe,C:/Program Files/Blackmagic Design/DaVinci Resolve/Resolve.exe,C:/Streamlabs OBS/Streamlabs OBS.exe,C:/Program Files/Mozilla Firefox/firefox.exe,E:/UNITY/unity editors folder/2019.4.17f1/Editor/Unity.exe,
