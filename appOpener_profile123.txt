@@ -1,0 +1,1 @@
+appOpener_profile123.txt,C:/Program Files (x86)/Photoshop CS6/x64/Photoshop.exe,
