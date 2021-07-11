@@ -194,6 +194,15 @@ def deleteProfile(profile):
     print("deleting profile: " + profile)
 
     if answer:
+        # Saves current list to the appropriate profile.txt (filename is 1st index)
+        if (len(apps) > 0):
+            oldProfile = apps[0]
+            with open(oldProfile, 'w') as file:
+                print("Saving previous profile:")
+                for app in apps:
+                    print(app)
+                    file.write(app + ',')
+
         for widget in frame.winfo_children():
             widget.destroy()
         apps.clear()
@@ -224,6 +233,15 @@ def deleteProfile(profile):
     if len(profiles) == 0:
         addAppButton['text'] = 'Make a Profile'
         addAppButton['command'] = newProfile
+
+    # Display the current profile name and app list
+    if (len(appsNoFilepath) > 0):
+        profileLabel = tk.Label(frame, text=currentProfile + "\n--------------------------------------------------", font=font)
+        profileLabel.pack(fill=BOTH)
+
+    for app in appsNoFilepath:
+        label = tk.Label(frame, text=app, font=font)
+        label.pack(fill=BOTH)
 
 # Declare and initialize
 #########################################################################################################################################
