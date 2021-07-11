@@ -21,7 +21,7 @@ No regrets though, I learned a lot and other people can use this too.
 
 
 ### View information about this project's development in [GitHub Projects](https://github.com/Henry-Graves/App-Opener/projects/1).  
-
+### Download executable software from [the latest release](https://github.com/Henry-Graves/App-Opener/releases/tag/v1.0).
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 #### How to run this app on startup for your Windows computer:
 - Download the folder including appOpener.exe, and create a shortcut to appOpener.exe
