@@ -16,6 +16,14 @@ This is a **lightweight Tkinter GUI app using locally-saved CRUD profiles** of a
 ### The Profile Menu:
 ![appDemoMenu](https://user-images.githubusercontent.com/73561858/125211607-8c6df700-e275-11eb-8cf8-67dce95d639e.png)  
   
+
+
+
+### Demo Video:
+https://user-images.githubusercontent.com/73561858/125309782-064ac280-e300-11eb-8d73-fd2ef8b16ebb.mp4  
+
+
+
 Now, after hours of reading documentation and coding, I can save a few seconds every day... maybe that'll pay off within a few hundred years?
 No regrets though, I learned a lot and other people can use this too.  
 
